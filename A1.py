@@ -8,11 +8,11 @@ print(tuplex)
 #tuples are immutable, so you can not add new element
 #using merge of tuples with the + operator you can add an element and it will create a new tuple
 tuplex = tuplex + (9,)
-print(tupleX)
+print(tuplex)
 
 #Counts the number of occurrences of items 50 from a tuple
 tuplel = (50, 10, 60, 70, 50)
-print(tuple.count(50))
+print(tuplel.count(50))
 
 #create a tuple
 tuplex = (2, 4, 3, 5, 4, 6, 7, 8, 6, 1)
